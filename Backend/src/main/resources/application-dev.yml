@@ -1,0 +1,23 @@
+# Profile
+ACTIVE_PROFILE: dev
+
+# Database
+DATABASE_HOST: localhost
+DATABASE_PORT: 3306
+DATABASE_NAME: hotel_dev_db
+DATABASE_USERNAME: root
+DATABASE_PASSWORD: password
+
+# Security
+JWT_SECRET: 9f4e1a7fcb56a43993fbce3ab49d1f9c24ab2a34b36f3b7d08456bcfcd25728d
+ACCESS_TOKEN_EXPIRATION_TIME: 3600000
+
+# Cloudinary
+CLOUDINARY_NAME: # completar
+CLOUDINARY_API_KEY: # completar
+CLOUDINARY_API_SECRET: # completar
+
+# Files
+MAX_FILE_SIZE: 5MB
+MAX_REQUEST_SIZE: 20MB
+ALLOWED_TYPES: jpeg,jpg,png,webp
