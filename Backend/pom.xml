@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.</groupId>
 	<artifactId>hotel</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>hotel</name>
-	<description>Demo project for Spring Boot</description>
+	<description>API para gestionar un hotel, incluyendo habitaciones, reservas, servicios y el control de ingresos y salidas de huéspedes</description>
 	<url/>
 	<licenses>
 		<license/>
